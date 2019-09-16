@@ -17,6 +17,8 @@ header {
       grid-template-columns: 1fr repeat(6, auto);
       li {
         margin: 0 10px;
+        &.book-now {
+        }
         a {
           color: #ffffff;
           text-transform: uppercase;
